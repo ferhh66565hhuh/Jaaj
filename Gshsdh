@@ -5,4 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/Jaaj.git
 git push -u origin main
-warp://188.114.99.57:678?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#o1&&detour=warp://188.114.99.57:678?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#o2
+warp://188.114.99.57:678?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m3#o1&&detour=warp://188.114.99.57:678?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#o2
+warp://188.114.99.57:678?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m5#o3&&detour=warp://188.114.99.57:678?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m6#o4
+warp://188.114.99.57:678?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=h04ad5d#o5&&detour=warp://188.114.99.57:678?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=g04ad5d#o6
